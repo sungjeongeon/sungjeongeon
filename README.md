@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffe6f8,100:e7e7ff&height=200&section=header&text=Jeongeon%20Sung&fontSize=90&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=bebebe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto:ffe6f8,100:e7e7ff&height=200&section=header&text=Jeongeon%20Sung&fontSize=90&fontColor=ffffff&fontAlignY=35&animation=twinkling)
 
 ### Hi there 👋
 
