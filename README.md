@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongeon%20Sung&fontSize=90&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=bebebe)
+
 ### Hi there 👋
 
-<!--
+<!--0:ffe6f8,100:e7e7ff
 **sungjeongeon/sungjeongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
