@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongeon's%20Github!&fontColor=ffffff&fontAlignY=35&animation=twinkling&fontSize=50)
 <!--0:ffe6f8,100:e7e7ff
 **sungjeongeon/sungjeongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-</br>
 <h3 align="center"><b>📚 Stacks 📚</b></h3>
 </br>
 <p align="center">
