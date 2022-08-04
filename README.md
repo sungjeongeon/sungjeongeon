@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongeon's%20Github!&fontColor=ffffff&fontAlignY=35&animation=twinkling&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeongeon's%20Github!&fontColor=ffffff&fontAlignY=35&animation=twinkling&fontSize=50)
 <!--0:ffe6f8,100:e7e7ff
 **sungjeongeon/sungjeongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h3 align="center"><b>📚 Stacks 📚</b></h3>
@@ -25,5 +25,5 @@
 </br>
 <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungjeongeon&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungjeongeon%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
