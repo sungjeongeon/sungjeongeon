@@ -16,19 +16,19 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <!--<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">-->
 </p>
-
+</br>
+<h3 align="center"><b>💌 Social 💌</b></h3>
+</br>
+<p align="center">
+<a href="https://j2ons.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=https://j2ons.tistory.com/"/></a> 
+<a href="mailto:jeongeon1942@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongeon1942@naver.com"/></a>
+</p>
+</br>
 <h3 align="center"><b>🔫 Hits 🔫</b></h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungjeongeon%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fj2ons.tistory.com%2F%2Fhit-counter&count_bg=%2379C83D&title_bg=%2379C83D&icon=blogger.svg&icon_color=%23E7E7E7&title=Tistory&edge_flat=false"/></a>
 </p>
 
-<!--<h3 align="center"><b>💌 Social 💌</b></h3>
-</br>
-<p align="center">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:harry@gmail.com)
-<a href="https://www.instagram.com/인스타닉네임"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인스타닉네임"/></a>
-<a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
-</p>-->
 
 </br>
