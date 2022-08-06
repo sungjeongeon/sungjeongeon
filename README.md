@@ -5,7 +5,6 @@
 <p align="center">🌱 I'm interested in being a <b>Front-end</b> developer.</br>
 💌 <jeongeon1942@gmail.com> </p>-->
 <h3 align="center"><b>📚 Stacks 📚</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,7 +17,6 @@
 </p>
 </br>
 <h3 align="center"><b>💌 Social 💌</b></h3>
-</br>
 <p align="center">
 <a href="https://j2ons.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white&link=https://j2ons.tistory.com/"/></a> 
 <a href="mailto:jeongeon1942@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongeon1942@naver.com"/></a>
